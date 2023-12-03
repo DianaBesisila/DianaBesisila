@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DianaBesisila
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning aql
+- 🌱 I’m currently learning Sql
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 0677346195
 
